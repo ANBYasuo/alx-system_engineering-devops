@@ -1,1 +1,1 @@
-My shell navigation project
+This is the README.md file for all projects
